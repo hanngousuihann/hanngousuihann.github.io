@@ -1,0 +1,45 @@
+
+<html>
+<head>
+<title>私のページ</title>
+</head>
+
+<body bgcolor="#052040" text="#ffffff">
+<div align="center">
+<font face="KHドット日比谷24">
+<font size="7">
+<br>
+はんごうダイアリー
+<br>
+</font>
+</font>
+<font size="4">
+<font face="ＭＳ ゴシック">
+ はんごうすいはんのホームページへようこそ<br>
+
+<font size="4">
+<div style="padding: 10px; margin-bottom: 0px; border: 0px solid #333333; background-color: #7777cc;">
+
+<a href="index.html">トップ</a>
+　<a href="about.html">プロフィール</a>
+　<a href="link.html">リンク集</a><br>
+</div>
+<hr width="500"><br><br>
+<hr width="500">
+リンク集
+<br><br>
+<a href="https://www.youtube.com/channel/UCF9LLydK-oNCT-7M5vtZVeQ">youtube</a><br>
+<a href="https://www.nicovideo.jp/user/96019028">ニコニコ動画</a><br>
+<a href="https://twitter.com/hanngousuihann">twitter</a><br>
+<a href="https://scratch.mit.edu/users/hanngousuihann/">scratch</a><br>
+<a href="https://www.pixiv.net/users/53131934">pixiv</a><br>
+<a href="https://piapro.jp/hanngousuihann">piapro</a><br>
+<a href="https://soundcloud.com/pldhzb6ftjub">soundcloud</a><br>
+<a href="https://chiebukuro.yahoo.co.jp/my">yahoo知恵袋</a><br>
+
+<hr width="500">
+</font>
+</font>
+</div>
+</body>
+</html>
